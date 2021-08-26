@@ -117,7 +117,7 @@ textarea {
 .contact-submit:hover {
   color: white;
   background-color: #42b6f5;
-  transition: all 0.5;
+  transition: all 0.5s;
   cursor: pointer;
 }
 
